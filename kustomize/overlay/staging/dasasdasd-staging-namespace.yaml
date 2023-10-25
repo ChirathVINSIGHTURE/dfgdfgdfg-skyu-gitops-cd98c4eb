@@ -1,0 +1,10 @@
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: dasasdasd-staging
+  labels:
+    environment-id: env_63e23105-a0c6-46a7-b5a7-ca08f440af4f
+    project-id: project_6e8d805f-3d38-4512-9457-ffb8378ea7c5
+    project-name: dasasdasd
+    environment-name: staging
+    organization-id: org_f20c804c-ee37-4760-be90-0335c55d7f42
